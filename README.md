@@ -5,7 +5,7 @@
 A beautiful, configurable **weather widget** for your Filament dashboard.  
 Powered by the OpenWeatherMap API, fully translatable, and supports °C/°F, animated Weather Icons, and optional response caching.
 
-## ✨ Features
+## Features
 
 - 🌤️ Displays current temperature, condition, hourly forecast and weather icons
 - 🔁 Auto-refresh at a configurable interval
@@ -16,6 +16,11 @@ Powered by the OpenWeatherMap API, fully translatable, and supports °C/°F, ani
 - 🎨 Supports 3 icon styles: **Monochrome**, **Line**, and **Fill**
 - 🔄 Supports **static and animated** icon variants
 
+## Requirements
+
+- PHP 8.2 or higher
+- Laravel 11.x or 12.x
+- Filament 4.x
 
 ## Installation
 
